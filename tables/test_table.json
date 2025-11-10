@@ -1,0 +1,21 @@
+{
+    "name": "Example Table",
+    "description": "A basic table structure",
+    "roll_type": "d6",
+    "outcome_prefix": "Result is",
+    "items": [
+        {
+            "range": [
+                1
+            ],
+            "value": "First item"
+        },
+        {
+            "range": [
+                2,
+                6
+            ],
+            "value": "Second item"
+        }
+    ]
+}
